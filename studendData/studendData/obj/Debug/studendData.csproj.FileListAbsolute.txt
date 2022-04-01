@@ -1,0 +1,7 @@
+C:\Users\pras\source\repos\studendData\studendData\bin\Debug\studendData.exe.config
+C:\Users\pras\source\repos\studendData\studendData\bin\Debug\studendData.exe
+C:\Users\pras\source\repos\studendData\studendData\bin\Debug\studendData.pdb
+C:\Users\pras\source\repos\studendData\studendData\obj\Debug\studendData.csproj.AssemblyReference.cache
+C:\Users\pras\source\repos\studendData\studendData\obj\Debug\studendData.csproj.CoreCompileInputs.cache
+C:\Users\pras\source\repos\studendData\studendData\obj\Debug\studendData.exe
+C:\Users\pras\source\repos\studendData\studendData\obj\Debug\studendData.pdb

@@ -1,0 +1,12 @@
+Name : prarthana 	 rollno : 101 	  sec:A
+Name : ridi 	 rollno : 102 	  sec:A
+Name : iraa 	 rollno : 103 	  sec:A
+Name : pragya 	 rollno : 104 	  sec:A
+Name : pritu 	 rollno : 105 	  sec:A
+Name : preeti 	 rollno : 106 	  sec:A
+Name : arya 	 rollno : 107 	  sec:A
+Name : salmim 	 rollno : 1018 	  sec:A
+Name : hana 	 rollno : 109 	  sec:A
+Name : isha 	 rollno : 110 	  sec:A
+Name : aana 	 rollno : 111 	  sec:A
+Name : ali 	 rollno : 112 	  sec:A
